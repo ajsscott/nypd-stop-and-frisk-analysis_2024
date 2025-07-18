@@ -9,7 +9,7 @@
 
 * **[Final Report (PDF)](./nypd_stop-and-frisk_final_report.pdf)** – Full project findings and statistical analysis.
 * **[Data & Code](./notebooks/)** – Python scripts and notebooks for reproducibility.
-* **[Visualizations](./reports/figures/** – Maps and charts highlighting significant racial disparities.
+* **[Visualizations](./reports/figures/)** – Maps and charts highlighting significant racial disparities.
 
 ---
 
