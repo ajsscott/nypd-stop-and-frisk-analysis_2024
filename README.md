@@ -15,10 +15,9 @@
 
 ## Author
 AJ Strauman-Scott
-M.S. in Data Science, City University of New York
-📍 New York, NY
-📫 ajstraumanscott@pm.me
-🔗 [LinkedIn](www.linkedin.com/in/ajstraumanscott) • [GitHub](https://github.com/ajsscott)
+Data Scientist | Storyteller | ML & Geospatial Modeling
+ajstraumanscott@pm.me
+[LinkedIn](www.linkedin.com/in/ajstraumanscott) • [GitHub](https://github.com/ajsscott)
 
 ---
 
